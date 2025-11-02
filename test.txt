@@ -1,0 +1,4 @@
+def fazer_cafe(tipo: str) -> str:
+    """Recebe o tipo de café e retorna uma mensagem personalizada."""
+    return f"Seu café {tipo} está pronto!"
+
